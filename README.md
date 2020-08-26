@@ -1,5 +1,5 @@
 ## ImageMosaic
-A simple program that allows a user to select a directory containing a bunch of images, and sort them by hue and saturation, and save a mosaic as a new image.  Not super useful or fun, but mostly just an exercise to get used to handling large tasks with files (e.g. systematically changing each pixel of an image using a pre-existing module, and creating a new image, etc.) as well as getting comfortable with GUI development using a pre-existing module, and gaining comfort with the software development process as a whole (conceptualization, development, testing, more development, more testing, etc.)
+A simple program that allows a user to select a directory containing a bunch of images, and sort them by hue and saturation, and save a mosaic as a new image.  Not terribly useful or exciting, but mostly just an exercise to get used to handling large tasks with files (e.g. systematically changing each pixel of an image using a pre-existing module, and creating a new image, etc.) as well as getting comfortable with GUI development using a pre-existing module, and gaining comfort with the software development process as a whole (conceptualization, development, testing, more development, more testing, etc.)
 
 
 ## INSTALLATION
