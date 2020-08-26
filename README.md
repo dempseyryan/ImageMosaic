@@ -27,3 +27,10 @@ In this page, it is considered HSB, while I've used V for value, rather than B f
 
 
 Ryan Dempsey 2020.
+
+
+
+
+## NEXT STEPS
+
+If I ever have time to just screw around with this again, I would definitely like to implement a proper loading screen.  With the little time I had on top of full-time school and other responsibilities, I couldn't develop a sufficient understanding of concurrent programming to implement one (even with the tkinter widgets).  Maybe one day, but more likely is I won't touch this project ever again.
